@@ -1,0 +1,39 @@
+{
+  "name": "movierama",
+  "version": "1.0.0",
+  "description": "this is a movie api consumer",
+  "main": "http_server.js",
+  "dependencies": {
+    "broccoli": "^1.1.1"
+  },
+  "devDependencies": {
+    "broccoli": "^1.1.1",
+    "broccoli-concat": "^3.2.2",
+    "broccoli-funnel": "^1.1.0",
+    "broccoli-merge-trees": "^1.2.3"
+  },
+  "scripts": {
+    "test": "tap test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kalyft/movieRama.git"
+  },
+  "keywords": [
+    "A",
+    "node",
+    "module",
+    "to",
+    "get",
+    "your",
+    "node",
+    "module",
+    "started"
+  ],
+  "author": "kalyft",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kalyft/movieRama/issues"
+  },
+  "homepage": "https://github.com/kalyft/movieRama#readme"
+}
